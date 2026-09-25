@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-25T22:10:00+05:30",
+  "timezone": "Asia/Kolkata",
+  "projects": [
+    {
+      "id": "furfree",
+      "name": "FurFree India",
+      "category": "Storefront",
+      "status": "Site live",
+      "updatedAt": "2026-09-25T22:04:00+05:30",
+      "stage": "Needs Jay",
+      "description": "Visit the product page and order-interest form.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/furfree-india/"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@tryfurfree"
+        },
+        {
+          "label": "Order form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScVSOY5Qd0FDMAbKMcrsiOZlRQXo-CUIWdwiHd3Gr8uyXdGlw/viewform"
+        }
+      ]
+    },
+    {
+      "id": "dropship",
+      "name": "Top-4 dropship launch",
+      "category": "Commerce",
+      "status": "In development",
+      "updatedAt": "2026-09-25T11:23:27+05:30",
+      "stage": "Needs Jay",
+      "description": "A four-product storefront is in planning; products and fulfillment have not launched.",
+      "links": []
+    },
+    {
+      "id": "humancode",
+      "name": "The Human Code",
+      "category": "Publishing",
+      "status": "App and channel live",
+      "updatedAt": "2026-09-25T18:55:39+05:30",
+      "stage": "Running",
+      "description": "Shorts publish on the channel; see the app and latest public videos.",
+      "links": [
+        {
+          "label": "App",
+          "url": "https://the-human-code.onrender.com"
+        },
+        {
+          "label": "Channel",
+          "url": "https://www.youtube.com/@thehumancodeapp"
+        },
+        {
+          "label": "9 AM Short",
+          "url": "https://www.youtube.com/shorts/DbOLJ98NJ5Q"
+        },
+        {
+          "label": "6 PM Short",
+          "url": "https://www.youtube.com/shorts/cUWbNUp-tKA"
+        }
+      ]
+    },
+    {
+      "id": "subwatch",
+      "name": "SubWatch",
+      "category": "App",
+      "status": "Public landing live",
+      "updatedAt": "2026-09-24T00:33:36+05:30",
+      "stage": "Needs Jay",
+      "description": "Subscription tracking app with a public landing page.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/subwatch/"
+        }
+      ]
+    },
+    {
+      "id": "highbrow",
+      "name": "Highbrow",
+      "category": "Content",
+      "status": "Public landing live",
+      "updatedAt": "2026-09-24T22:40:26+05:30",
+      "stage": "Needs Jay",
+      "description": "Cannabis research content project with a public landing page.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/highbrow/"
+        }
+      ]
+    },
+    {
+      "id": "gigs",
+      "name": "Freelance gig hunter",
+      "category": "Work pipeline",
+      "status": "Public gig dashboard live",
+      "updatedAt": "2026-09-25T08:14:00+05:30",
+      "stage": "Running",
+      "description": "Public dashboard of freelance opportunities.",
+      "links": [
+        {
+          "label": "Gigscan",
+          "url": "https://jairulez.github.io/gigscan/"
+        }
+      ]
+    },
+    {
+      "id": "psytrance",
+      "name": "Bangalore psytrance scan",
+      "category": "Discovery",
+      "status": "Event discovery underway",
+      "updatedAt": "2026-09-25T17:35:35+05:30",
+      "stage": "Running",
+      "description": "Finding Bengaluru psytrance events and checking current listings.",
+      "links": []
+    },
+    {
+      "id": "nammareply",
+      "name": "NammaReply",
+      "category": "Business",
+      "status": "Site live",
+      "updatedAt": "2026-09-23T06:30:47+05:30",
+      "stage": "Waiting",
+      "description": "WhatsApp follow-up service for local businesses.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/nammareply/"
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "name": "Output quality check",
+      "category": "Oversight",
+      "status": "Quality check running",
+      "updatedAt": "2026-09-25T22:04:15+05:30",
+      "stage": "Running",
+      "description": "Checks published project pages and links for faults.",
+      "links": []
+    }
+  ]
+}
