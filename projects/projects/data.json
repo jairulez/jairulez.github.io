@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-26T00:55:00+05:30",
+  "generatedAt": "2026-09-27T23:47:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,8 +40,8 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "App and channel live",
-      "updatedAt": "2026-09-25T18:55:39+05:30",
+      "status": "Channel live; Sep 27 posts checked",
+      "updatedAt": "2026-09-27T23:45:00+05:30",
       "stage": "Running",
       "description": "Shorts publish on the channel; see the app and latest public videos.",
       "links": [
@@ -55,11 +55,11 @@
         },
         {
           "label": "9 AM Short",
-          "url": "https://www.youtube.com/shorts/DbOLJ98NJ5Q"
+          "url": "https://www.youtube.com/shorts/C1Lfuzc9PW0"
         },
         {
           "label": "6 PM Short",
-          "url": "https://www.youtube.com/shorts/cUWbNUp-tKA"
+          "url": "https://www.youtube.com/shorts/-rSM8TeMmrQ"
         }
       ]
     },
@@ -97,8 +97,8 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Public gig dashboard live",
-      "updatedAt": "2026-09-25T08:14:00+05:30",
+      "status": "Daily scan current; no pick today",
+      "updatedAt": "2026-09-27T08:56:00+05:30",
       "stage": "Running",
       "description": "Public dashboard of freelance opportunities.",
       "links": [
@@ -137,8 +137,8 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Quality check running",
-      "updatedAt": "2026-09-25T23:45:57+05:30",
+      "status": "Nightly check completed; dashboard lag under repair",
+      "updatedAt": "2026-09-27T23:46:00+05:30",
       "stage": "Running",
       "description": "Checks published project pages and links for faults.",
       "links": []
