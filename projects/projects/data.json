@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-27T23:47:00+05:30",
+  "generatedAt": "2026-09-28T22:40:21+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,8 +40,8 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Channel live; Sep 27 posts checked",
-      "updatedAt": "2026-09-27T23:45:00+05:30",
+      "status": "Channel live; five Sep 28 Shorts",
+      "updatedAt": "2026-09-28T21:45:54+05:30",
       "stage": "Running",
       "description": "Shorts publish on the channel; see the app and latest public videos.",
       "links": [
@@ -55,11 +55,15 @@
         },
         {
           "label": "9 AM Short",
-          "url": "https://www.youtube.com/shorts/C1Lfuzc9PW0"
+          "url": "https://www.youtube.com/shorts/Y85enAGdQiM"
         },
         {
           "label": "6 PM Short",
-          "url": "https://www.youtube.com/shorts/-rSM8TeMmrQ"
+          "url": "https://www.youtube.com/shorts/2S0W8ZNwHd0"
+        },
+        {
+          "label": "Latest Short",
+          "url": "https://www.youtube.com/shorts/22B4uBToRfY"
         }
       ]
     },
@@ -97,8 +101,8 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Daily scan current; no pick today",
-      "updatedAt": "2026-09-27T08:56:00+05:30",
+      "status": "Daily scan current; no viable pick",
+      "updatedAt": "2026-09-28T08:14:00+05:30",
       "stage": "Running",
       "description": "Public dashboard of freelance opportunities.",
       "links": [
@@ -137,11 +141,41 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Nightly check completed; dashboard lag under repair",
-      "updatedAt": "2026-09-27T23:46:00+05:30",
+      "status": "Nightly check pending tonight",
+      "updatedAt": "2026-09-28T22:40:21+05:30",
       "stage": "Running",
       "description": "Checks published project pages and links for faults.",
       "links": []
+    },
+    {
+      "id": "econagent",
+      "name": "EconAgent",
+      "category": "App",
+      "stage": "In progress",
+      "description": "Public preview of a simulated AI-agent economy. No real earnings or autonomous transactions.",
+      "status": "Preview live / synthetic tick tested",
+      "updatedAt": "2026-09-28T21:43:01+05:30",
+      "links": [
+        {
+          "label": "Preview",
+          "url": "https://econagent-preview.onrender.com/"
+        }
+      ]
+    },
+    {
+      "id": "trading-research",
+      "name": "Trading idea research",
+      "category": "Research",
+      "stage": "In progress",
+      "description": "Candlestick model and funded-trading options assessed; no paid challenge or live-trading bot launched.",
+      "status": "Research done / no purchase",
+      "updatedAt": "2026-09-28T22:18:14+05:30",
+      "links": [
+        {
+          "label": "Kronos",
+          "url": "https://github.com/shiyu-coder/Kronos"
+        }
+      ]
     }
   ]
 }
