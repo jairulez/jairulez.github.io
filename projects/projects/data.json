@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-28T22:40:21+05:30",
+  "generatedAt": "2026-09-29T00:12:36+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,8 +40,8 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Channel live; five Sep 28 Shorts",
-      "updatedAt": "2026-09-28T21:45:54+05:30",
+      "status": "Six Sep 28 uploads checked",
+      "updatedAt": "2026-09-28T23:46:43+05:30",
       "stage": "Running",
       "description": "Shorts publish on the channel; see the app and latest public videos.",
       "links": [
@@ -141,8 +141,8 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Nightly check pending tonight",
-      "updatedAt": "2026-09-28T22:40:21+05:30",
+      "status": "Nightly audit completed",
+      "updatedAt": "2026-09-28T23:46:43+05:30",
       "stage": "Running",
       "description": "Checks published project pages and links for faults.",
       "links": []
