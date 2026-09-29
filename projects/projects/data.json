@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T00:12:36+05:30",
+  "generatedAt": "2026-09-30T00:12:48+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,8 +40,8 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Six Sep 28 uploads checked",
-      "updatedAt": "2026-09-28T23:46:43+05:30",
+      "status": "Three Sep 29 uploads; variety fix under test",
+      "updatedAt": "2026-09-29T23:51:03+05:30",
       "stage": "Running",
       "description": "Shorts publish on the channel; see the app and latest public videos.",
       "links": [
@@ -55,15 +55,11 @@
         },
         {
           "label": "9 AM Short",
-          "url": "https://www.youtube.com/shorts/Y85enAGdQiM"
+          "url": "https://www.youtube.com/shorts/KfZCO18ctoQ"
         },
         {
           "label": "6 PM Short",
-          "url": "https://www.youtube.com/shorts/2S0W8ZNwHd0"
-        },
-        {
-          "label": "Latest Short",
-          "url": "https://www.youtube.com/shorts/22B4uBToRfY"
+          "url": "https://www.youtube.com/shorts/ppUOTjSutAo"
         }
       ]
     },
@@ -101,8 +97,8 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Daily scan current; no viable pick",
-      "updatedAt": "2026-09-28T08:14:00+05:30",
+      "status": "Daily scan running; profile update pending",
+      "updatedAt": "2026-09-29T23:46:57+05:30",
       "stage": "Running",
       "description": "Public dashboard of freelance opportunities.",
       "links": [
@@ -141,8 +137,8 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Nightly audit completed",
-      "updatedAt": "2026-09-28T23:46:43+05:30",
+      "status": "Nightly audit completed; fixes in progress",
+      "updatedAt": "2026-09-29T23:46:57+05:30",
       "stage": "Running",
       "description": "Checks published project pages and links for faults.",
       "links": []
