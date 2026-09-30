@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T00:12:48+05:30",
+  "generatedAt": "2026-10-01T00:15:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Three Sep 29 uploads; variety fix under test",
-      "updatedAt": "2026-09-29T23:51:03+05:30",
+      "status": "Sep 30 videos published / QA cleanup",
+      "updatedAt": "2026-09-30T23:57:52+05:30",
       "stage": "Running",
-      "description": "Shorts publish on the channel; see the app and latest public videos.",
+      "description": "Three new Shorts were checked. Citation cleanup is complete; the hashtag code fix still needs deployment verification.",
       "links": [
         {
           "label": "App",
@@ -54,12 +54,16 @@
           "url": "https://www.youtube.com/@thehumancodeapp"
         },
         {
-          "label": "9 AM Short",
-          "url": "https://www.youtube.com/shorts/KfZCO18ctoQ"
+          "label": "Discipline Short",
+          "url": "https://www.youtube.com/shorts/AnkVWfp-aIU"
         },
         {
-          "label": "6 PM Short",
-          "url": "https://www.youtube.com/shorts/ppUOTjSutAo"
+          "label": "Responsibility Short",
+          "url": "https://www.youtube.com/shorts/tv1NDtAdyMk"
+        },
+        {
+          "label": "Forgiveness Short",
+          "url": "https://www.youtube.com/shorts/3kJwvAAKTR8"
         }
       ]
     },
@@ -97,10 +101,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Daily scan running; profile update pending",
-      "updatedAt": "2026-09-29T23:46:57+05:30",
-      "stage": "Running",
-      "description": "Public dashboard of freelance opportunities.",
+      "status": "Daily scan / profile update pending",
+      "updatedAt": "2026-09-30T23:50:45+05:30",
+      "stage": "Needs Jay",
+      "description": "The Sep 30 scan has no selected gigs. Profile work is still pending.",
       "links": [
         {
           "label": "Gigscan",
@@ -112,10 +116,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Event discovery underway",
-      "updatedAt": "2026-09-25T17:35:35+05:30",
+      "status": "Sep 30 scan complete",
+      "updatedAt": "2026-09-30T10:07:57+05:30",
       "stage": "Running",
-      "description": "Finding Bengaluru psytrance events and checking current listings.",
+      "description": "Two Saturday events remain listed; check current ticket details before making plans.",
       "links": []
     },
     {
@@ -137,20 +141,20 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Nightly audit completed; fixes in progress",
-      "updatedAt": "2026-09-29T23:46:57+05:30",
+      "status": "Sep 30 audit complete",
+      "updatedAt": "2026-09-30T23:50:45+05:30",
       "stage": "Running",
-      "description": "Checks published project pages and links for faults.",
+      "description": "Checked current output; corrections and follow-up checks are tracked in the private dashboard.",
       "links": []
     },
     {
       "id": "econagent",
       "name": "EconAgent",
       "category": "App",
-      "stage": "In progress",
-      "description": "Public preview of a simulated AI-agent economy. No real earnings or autonomous transactions.",
-      "status": "Preview live / synthetic tick tested",
-      "updatedAt": "2026-09-28T21:43:01+05:30",
+      "stage": "Running",
+      "description": "Synthetic-only prototype. Preview loaded after a cold-start retry; production launch is not complete.",
+      "status": "Preview live / cold start recovered",
+      "updatedAt": "2026-10-01T00:15:40+05:30",
       "links": [
         {
           "label": "Preview",
@@ -162,16 +166,36 @@
       "id": "trading-research",
       "name": "Trading idea research",
       "category": "Research",
-      "stage": "In progress",
-      "description": "Candlestick model and funded-trading options assessed; no paid challenge or live-trading bot launched.",
-      "status": "Research done / no purchase",
-      "updatedAt": "2026-09-28T22:18:14+05:30",
+      "stage": "Waiting",
+      "description": "Research has not demonstrated a trading edge. No live trading or paid challenge has started.",
+      "status": "Offline testing paused",
+      "updatedAt": "2026-09-30T23:48:59+05:30",
       "links": [
         {
           "label": "Kronos",
           "url": "https://github.com/shiyu-coder/Kronos"
         }
       ]
+    },
+    {
+      "id": "siteguard",
+      "name": "SiteGuard",
+      "category": "Website maintenance",
+      "status": "MVP tested locally",
+      "updatedAt": "2026-09-30T23:48:03+05:30",
+      "stage": "Needs Jay",
+      "description": "Reporting prototype is tested locally; deployment is still pending.",
+      "links": []
+    },
+    {
+      "id": "jarvis",
+      "name": "Phone Jarvis",
+      "category": "Voice assistant",
+      "status": "Voice pipeline in development",
+      "updatedAt": "2026-09-30T15:15:24+05:30",
+      "stage": "Running",
+      "description": "Phone bridge is tested; the complete voice assistant is still being built.",
+      "links": []
     }
   ]
 }
