@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T00:15:00+05:30",
+  "generatedAt": "2026-10-01T23:49:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Sep 30 videos published / QA cleanup",
-      "updatedAt": "2026-09-30T23:57:52+05:30",
+      "status": "Two Oct 1 Shorts published / late",
+      "updatedAt": "2026-10-01T23:49:00+05:30",
       "stage": "Running",
-      "description": "Three new Shorts were checked. Citation cleanup is complete; the hashtag code fix still needs deployment verification.",
+      "description": "Two new Shorts are public. Scheduled slots ran late; two Quora posts were reported published, with full-body verification still pending.",
       "links": [
         {
           "label": "App",
@@ -54,16 +54,12 @@
           "url": "https://www.youtube.com/@thehumancodeapp"
         },
         {
-          "label": "Discipline Short",
-          "url": "https://www.youtube.com/shorts/AnkVWfp-aIU"
+          "label": "Relationships Short",
+          "url": "https://www.youtube.com/shorts/CsBcarqtb5s"
         },
         {
-          "label": "Responsibility Short",
-          "url": "https://www.youtube.com/shorts/tv1NDtAdyMk"
-        },
-        {
-          "label": "Forgiveness Short",
-          "url": "https://www.youtube.com/shorts/3kJwvAAKTR8"
+          "label": "Evening Short",
+          "url": "https://www.youtube.com/shorts/XdAID7dNagE"
         }
       ]
     },
@@ -101,10 +97,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Daily scan / profile update pending",
-      "updatedAt": "2026-09-30T23:50:45+05:30",
+      "status": "Oct 1 scan complete / no picks",
+      "updatedAt": "2026-10-01T23:49:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Sep 30 scan has no selected gigs. Profile work is still pending.",
+      "description": "The Oct 1 scan selected no new gigs. No bids or client contacts were made.",
       "links": [
         {
           "label": "Gigscan",
@@ -141,10 +137,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Sep 30 audit complete",
-      "updatedAt": "2026-09-30T23:50:45+05:30",
+      "status": "Oct 1 audit complete",
+      "updatedAt": "2026-10-01T23:49:00+05:30",
       "stage": "Running",
-      "description": "Checked current output; corrections and follow-up checks are tracked in the private dashboard.",
+      "description": "Late publishing and follow-up checks are tracked in the private dashboard. Snapshot refreshed after the audit.",
       "links": []
     },
     {
@@ -152,9 +148,9 @@
       "name": "EconAgent",
       "category": "App",
       "stage": "Running",
-      "description": "Synthetic-only prototype. Preview loaded after a cold-start retry; production launch is not complete.",
-      "status": "Preview live / cold start recovered",
-      "updatedAt": "2026-10-01T00:15:40+05:30",
+      "description": "Synthetic-only prototype. Public preview checked tonight; production launch is not complete.",
+      "status": "Preview live / synthetic only",
+      "updatedAt": "2026-10-01T23:49:00+05:30",
       "links": [
         {
           "label": "Preview",
