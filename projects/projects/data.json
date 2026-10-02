@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T23:49:00+05:30",
+  "generatedAt": "2026-10-03T00:13:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Two Oct 1 Shorts published / late",
-      "updatedAt": "2026-10-01T23:49:00+05:30",
+      "status": "Oct 2 Shorts / publishing continued",
+      "updatedAt": "2026-10-03T00:13:00+05:30",
       "stage": "Running",
-      "description": "Two new Shorts are public. Scheduled slots ran late; two Quora posts were reported published, with full-body verification still pending.",
+      "description": "Four Oct 2 Shorts were reported and their oEmbed metadata now resolves. Scheduled slots ran late. Six Quora posts were reported; full-body checks remain pending.",
       "links": [
         {
           "label": "App",
@@ -54,12 +54,20 @@
           "url": "https://www.youtube.com/@thehumancodeapp"
         },
         {
-          "label": "Relationships Short",
-          "url": "https://www.youtube.com/shorts/CsBcarqtb5s"
+          "label": "Tao bonus",
+          "url": "https://www.youtube.com/shorts/XAZV5wel73c"
         },
         {
-          "label": "Evening Short",
-          "url": "https://www.youtube.com/shorts/XdAID7dNagE"
+          "label": "Prioritize Short",
+          "url": "https://www.youtube.com/shorts/CMqZUZcpbCE"
+        },
+        {
+          "label": "Mandukya Short",
+          "url": "https://www.youtube.com/shorts/aEtKKwV_7QI"
+        },
+        {
+          "label": "Isha Short",
+          "url": "https://www.youtube.com/shorts/vYmDFOgJANc"
         }
       ]
     },
@@ -97,10 +105,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 1 scan complete / no picks",
-      "updatedAt": "2026-10-01T23:49:00+05:30",
+      "status": "Oct 2 scan complete / no picks",
+      "updatedAt": "2026-10-03T00:13:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 1 scan selected no new gigs. No bids or client contacts were made.",
+      "description": "The Oct 2 scan selected no new gigs. No bids or client contacts were made.",
       "links": [
         {
           "label": "Gigscan",
@@ -112,10 +120,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Sep 30 scan complete",
-      "updatedAt": "2026-09-30T10:07:57+05:30",
+      "status": "Oct 2 scan complete",
+      "updatedAt": "2026-10-02T10:08:00+05:30",
       "stage": "Running",
-      "description": "Two Saturday events remain listed; check current ticket details before making plans.",
+      "description": "Two Saturday events remain listed; verify current ticket details before plans.",
       "links": []
     },
     {
@@ -137,10 +145,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 1 audit complete",
-      "updatedAt": "2026-10-01T23:49:00+05:30",
+      "status": "Oct 2 audit complete",
+      "updatedAt": "2026-10-03T00:13:00+05:30",
       "stage": "Running",
-      "description": "Late publishing and follow-up checks are tracked in the private dashboard. Snapshot refreshed after the audit.",
+      "description": "Publishing checks and follow-ups are tracked in the private dashboard. Earlier video-metadata error cleared on recheck.",
       "links": []
     },
     {
@@ -148,9 +156,9 @@
       "name": "EconAgent",
       "category": "App",
       "stage": "Running",
-      "description": "Synthetic-only prototype. Public preview checked tonight; production launch is not complete.",
-      "status": "Preview live / synthetic only",
-      "updatedAt": "2026-10-01T23:49:00+05:30",
+      "description": "Synthetic-only prototype. Latest check returned a service error after one retry; production launch is not complete.",
+      "status": "Preview availability unconfirmed",
+      "updatedAt": "2026-10-03T00:13:00+05:30",
       "links": [
         {
           "label": "Preview",
