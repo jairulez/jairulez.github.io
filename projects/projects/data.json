@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-03T00:13:00+05:30",
+  "generatedAt": "2026-10-04T00:13:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 2 Shorts / publishing continued",
-      "updatedAt": "2026-10-03T00:13:00+05:30",
+      "status": "Oct 3 publishing / Quora paused",
+      "updatedAt": "2026-10-04T00:13:00+05:30",
       "stage": "Running",
-      "description": "Four Oct 2 Shorts were reported and their oEmbed metadata now resolves. Scheduled slots ran late. Six Quora posts were reported; full-body checks remain pending.",
+      "description": "Three Oct 3 upload links resolve through oEmbed, including an overnight upload. Scheduled publishing ran late. One morning Quora post was reported; further Quora posts are paused.",
       "links": [
         {
           "label": "App",
@@ -54,20 +54,16 @@
           "url": "https://www.youtube.com/@thehumancodeapp"
         },
         {
-          "label": "Tao bonus",
-          "url": "https://www.youtube.com/shorts/XAZV5wel73c"
+          "label": "Chandogya Short",
+          "url": "https://www.youtube.com/shorts/T2sOzDdX_Oo"
         },
         {
-          "label": "Prioritize Short",
-          "url": "https://www.youtube.com/shorts/CMqZUZcpbCE"
+          "label": "Heartbreak Short",
+          "url": "https://www.youtube.com/shorts/43LhX0jdjms"
         },
         {
-          "label": "Mandukya Short",
-          "url": "https://www.youtube.com/shorts/aEtKKwV_7QI"
-        },
-        {
-          "label": "Isha Short",
-          "url": "https://www.youtube.com/shorts/vYmDFOgJANc"
+          "label": "Isha money Short",
+          "url": "https://www.youtube.com/shorts/wG76zjKJt60"
         }
       ]
     },
@@ -105,10 +101,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 2 scan complete / no picks",
-      "updatedAt": "2026-10-03T00:13:00+05:30",
+      "status": "Oct 3 scan complete / no picks",
+      "updatedAt": "2026-10-04T00:13:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 2 scan selected no new gigs. No bids or client contacts were made.",
+      "description": "The Oct 3 scan selected no new gigs. No bids or client contacts were made.",
       "links": [
         {
           "label": "Gigscan",
@@ -120,10 +116,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 2 scan complete",
-      "updatedAt": "2026-10-02T10:08:00+05:30",
+      "status": "Oct 3 scan complete",
+      "updatedAt": "2026-10-03T10:10:00+05:30",
       "stage": "Running",
-      "description": "Two Saturday events remain listed; verify current ticket details before plans.",
+      "description": "Saturday listings were checked during the day. No verified Sunday psytrance listing found; previous events are not future recommendations.",
       "links": []
     },
     {
@@ -145,10 +141,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 2 audit complete",
-      "updatedAt": "2026-10-03T00:13:00+05:30",
+      "status": "Oct 3 audit complete",
+      "updatedAt": "2026-10-04T00:13:00+05:30",
       "stage": "Running",
-      "description": "Publishing checks and follow-ups are tracked in the private dashboard. Earlier video-metadata error cleared on recheck.",
+      "description": "Publishing checks, a reported thumbnail reversion and follow-ups are tracked in the private dashboard.",
       "links": []
     },
     {
@@ -158,7 +154,7 @@
       "stage": "Running",
       "description": "Synthetic-only prototype. Latest check returned a service error after one retry; production launch is not complete.",
       "status": "Preview availability unconfirmed",
-      "updatedAt": "2026-10-03T00:13:00+05:30",
+      "updatedAt": "2026-10-04T00:13:00+05:30",
       "links": [
         {
           "label": "Preview",
