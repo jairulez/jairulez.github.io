@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T00:13:00+05:30",
+  "generatedAt": "2026-10-05T00:13:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 3 publishing / Quora paused",
-      "updatedAt": "2026-10-04T00:13:00+05:30",
+      "status": "Oct 4 publishing / Quora paused",
+      "updatedAt": "2026-10-05T00:13:00+05:30",
       "stage": "Running",
-      "description": "Three Oct 3 upload links resolve through oEmbed, including an overnight upload. Scheduled publishing ran late. One morning Quora post was reported; further Quora posts are paused.",
+      "description": "Three Oct 4 Shorts resolve through oEmbed, including a Dhammapada bonus. Scheduled publishing ran late. Quora remains paused.",
       "links": [
         {
           "label": "App",
@@ -55,15 +55,15 @@
         },
         {
           "label": "Chandogya Short",
-          "url": "https://www.youtube.com/shorts/T2sOzDdX_Oo"
+          "url": "https://www.youtube.com/shorts/IRQMlvqU_0M"
         },
         {
-          "label": "Heartbreak Short",
-          "url": "https://www.youtube.com/shorts/43LhX0jdjms"
+          "label": "Brihadaranyaka Short",
+          "url": "https://www.youtube.com/shorts/FWFuRujhNqM"
         },
         {
-          "label": "Isha money Short",
-          "url": "https://www.youtube.com/shorts/wG76zjKJt60"
+          "label": "Dhammapada bonus",
+          "url": "https://www.youtube.com/shorts/PXS1R1hYI_Q"
         }
       ]
     },
@@ -86,14 +86,18 @@
       "id": "highbrow",
       "name": "Highbrow",
       "category": "Content",
-      "status": "Public landing live",
-      "updatedAt": "2026-09-24T22:40:26+05:30",
+      "status": "Education page updated / Q&A in preparation",
+      "updatedAt": "2026-10-05T00:13:00+05:30",
       "stage": "Needs Jay",
-      "description": "Cannabis research content project with a public landing page.",
+      "description": "Education-only landing text is updated. A research-answer Q&A and moderated question dashboard are in preparation; public activation is not yet verified.",
       "links": [
         {
           "label": "Landing",
           "url": "https://jairulez.github.io/highbrow/"
+        },
+        {
+          "label": "Repo",
+          "url": "https://github.com/jairulez/highbrow"
         }
       ]
     },
@@ -101,10 +105,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 3 scan complete / no picks",
-      "updatedAt": "2026-10-04T00:13:00+05:30",
+      "status": "Oct 4 scan / no selected gigs",
+      "updatedAt": "2026-10-05T00:13:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 3 scan selected no new gigs. No bids or client contacts were made.",
+      "description": "The latest scan did not select a qualifying gig. No bids or client contacts were reported.",
       "links": [
         {
           "label": "Gigscan",
@@ -116,10 +120,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 3 scan complete",
-      "updatedAt": "2026-10-03T10:10:00+05:30",
+      "status": "Oct 4 scan / no new weekend listing",
+      "updatedAt": "2026-10-04T10:08:12+05:30",
       "stage": "Running",
-      "description": "Saturday listings were checked during the day. No verified Sunday psytrance listing found; previous events are not future recommendations.",
+      "description": "No verified new psytrance listing was found for Oct 4 or Oct 9-11. Earlier Saturday events are past.",
       "links": []
     },
     {
@@ -141,10 +145,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 3 audit complete",
-      "updatedAt": "2026-10-04T00:13:00+05:30",
+      "status": "Oct 4 audit complete",
+      "updatedAt": "2026-10-05T00:13:00+05:30",
       "stage": "Running",
-      "description": "Publishing checks, a reported thumbnail reversion and follow-ups are tracked in the private dashboard.",
+      "description": "Nightly checks found publishing schedule drift. Project snapshots are refreshed after review; some output checks remain incomplete.",
       "links": []
     },
     {
@@ -152,9 +156,9 @@
       "name": "EconAgent",
       "category": "App",
       "stage": "Running",
-      "description": "Synthetic-only prototype. Latest check returned a service error after one retry; production launch is not complete.",
-      "status": "Preview availability unconfirmed",
-      "updatedAt": "2026-10-04T00:13:00+05:30",
+      "description": "Public preview availability could not be confirmed. The prototype is synthetic, with no real earnings or autonomous transactions.",
+      "status": "Availability unconfirmed",
+      "updatedAt": "2026-10-05T00:13:00+05:30",
       "links": [
         {
           "label": "Preview",
