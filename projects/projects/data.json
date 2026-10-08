@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T00:33:34+05:30",
+  "generatedAt": "2026-10-09T00:31:29+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 7 Shorts live / Quora paused",
-      "updatedAt": "2026-10-07T23:47:00+05:30",
+      "status": "Oct 8 Shorts live / Quora paused",
+      "updatedAt": "2026-10-08T23:47:00+05:30",
       "stage": "Running",
-      "description": "Three Oct 7 Shorts are live; the scheduled upload is verified with credited Commons images. Publishing timing still drifted, and Quora remains paused.",
+      "description": "Oct 8 Shorts are live; the morning miss was recovered. Publishing timing still drifted, and Quora remains paused.",
       "links": [
         {
           "label": "App",
@@ -68,6 +68,10 @@
         {
           "label": "Oct 7 Short",
           "url": "https://www.youtube.com/shorts/CMwQ_MSuO1Q"
+        },
+        {
+          "label": "Oct 8 Short",
+          "url": "https://www.youtube.com/shorts/wbF9pjA-iAo"
         }
       ]
     },
@@ -109,10 +113,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 7 scan / no selected gigs",
-      "updatedAt": "2026-10-07T08:12:00+05:30",
+      "status": "Oct 8 scan / no new strong-fit role",
+      "updatedAt": "2026-10-08T10:27:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 7 scan found no qualifying gigs, bids or client contacts.",
+      "description": "The Oct 8 scan found no additional strong-fit role.",
       "links": [
         {
           "label": "Gigscan",
@@ -124,10 +128,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 7 scan / no Oct 9-11 listing",
-      "updatedAt": "2026-10-07T10:08:12+05:30",
+      "status": "Oct 8 scan / no Oct 8-11 listing",
+      "updatedAt": "2026-10-08T10:08:12+05:30",
       "stage": "Running",
-      "description": "No verified psytrance listing was found for Oct 9-11.",
+      "description": "No verified psytrance event was found for Oct 8-11.",
       "links": []
     },
     {
@@ -149,10 +153,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 7 audit complete / checks remain open",
-      "updatedAt": "2026-10-07T23:47:00+05:30",
+      "status": "Oct 8 audit / follow-ups open",
+      "updatedAt": "2026-10-08T23:47:00+05:30",
       "stage": "Running",
-      "description": "The Oct 7 audit found publishing schedule drift; some output checks remain incomplete.",
+      "description": "The Oct 8 audit found publishing schedule drift; some follow-up checks remain open.",
       "links": []
     },
     {
@@ -199,11 +203,41 @@
       "id": "jarvis",
       "name": "Phone Jarvis",
       "category": "Voice assistant",
-      "status": "Voice pipeline in development",
-      "updatedAt": "2026-09-30T15:15:24+05:30",
+      "status": "Voice assistant APK built / phone test pending",
+      "updatedAt": "2026-10-08T22:49:00+05:30",
       "stage": "Running",
-      "description": "Phone bridge is tested; the complete voice assistant is still being built.",
+      "description": "A voice-assistant APK is built; real-phone testing is still pending.",
       "links": []
+    },
+    {
+      "id": "svara",
+      "name": "Svara",
+      "category": "App",
+      "status": "Wellness tracker demo",
+      "updatedAt": "2026-10-09T00:31:29+05:30",
+      "stage": "Running",
+      "description": "A simple daily wellness check-in tracker demo with a public preview.",
+      "links": [
+        {
+          "label": "Preview",
+          "url": "https://svara-9b5x.onrender.com/"
+        }
+      ]
+    },
+    {
+      "id": "personal-intelligence",
+      "name": "Personal Intelligence",
+      "category": "App",
+      "status": "Personal-search app preview",
+      "updatedAt": "2026-10-09T00:31:29+05:30",
+      "stage": "Running",
+      "description": "A private personal-search app with a web preview.",
+      "links": [
+        {
+          "label": "Preview",
+          "url": "https://personal-intelligence.onrender.com/"
+        }
+      ]
     }
   ]
 }
