@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-09T00:31:29+05:30",
+  "generatedAt": "2026-10-10T00:35:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 8 Shorts live / Quora paused",
-      "updatedAt": "2026-10-08T23:47:00+05:30",
+      "status": "Oct 9 Shorts live / schedule drift",
+      "updatedAt": "2026-10-09T23:47:00+05:30",
       "stage": "Running",
-      "description": "Oct 8 Shorts are live; the morning miss was recovered. Publishing timing still drifted, and Quora remains paused.",
+      "description": "Three Oct 9 Shorts are live; the morning miss was recovered and the afternoon/evening uploads ran late. Quora remains paused.",
       "links": [
         {
           "label": "App",
@@ -66,12 +66,16 @@
           "url": "https://www.youtube.com/shorts/PXS1R1hYI_Q"
         },
         {
-          "label": "Oct 7 Short",
-          "url": "https://www.youtube.com/shorts/CMwQ_MSuO1Q"
+          "label": "Oct 9 morning Short",
+          "url": "https://www.youtube.com/shorts/frSFrECoNDw"
         },
         {
-          "label": "Oct 8 Short",
-          "url": "https://www.youtube.com/shorts/wbF9pjA-iAo"
+          "label": "Oct 9 afternoon Short",
+          "url": "https://www.youtube.com/shorts/sYdOKpTf6DY"
+        },
+        {
+          "label": "Oct 9 evening Short",
+          "url": "https://www.youtube.com/shorts/z9BYaNHPS4Y"
         }
       ]
     },
@@ -113,10 +117,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 8 scan / no new strong-fit role",
-      "updatedAt": "2026-10-08T10:27:00+05:30",
+      "status": "Oct 9 scan / no new strong-fit role",
+      "updatedAt": "2026-10-09T08:40:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 8 scan found no additional strong-fit role.",
+      "description": "The Oct 9 scan found no new accessible, bounded role meeting the budget and proven-fit filters.",
       "links": [
         {
           "label": "Gigscan",
@@ -128,10 +132,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 8 scan / no Oct 8-11 listing",
-      "updatedAt": "2026-10-08T10:08:12+05:30",
+      "status": "Oct 9 scan / weekend clear",
+      "updatedAt": "2026-10-09T10:08:00+05:30",
       "stage": "Running",
-      "description": "No verified psytrance event was found for Oct 8-11.",
+      "description": "No verified psytrance listing was found for Oct 9-11.",
       "links": []
     },
     {
@@ -153,10 +157,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 8 audit / follow-ups open",
-      "updatedAt": "2026-10-08T23:47:00+05:30",
+      "status": "Oct 9 audit / Shorts clear",
+      "updatedAt": "2026-10-09T23:47:00+05:30",
       "stage": "Running",
-      "description": "The Oct 8 audit found publishing schedule drift; some follow-up checks remain open.",
+      "description": "The Oct 9 Shorts audit passed; all three uploads were verified live. Other checks were not repeated.",
       "links": []
     },
     {
@@ -203,18 +207,18 @@
       "id": "jarvis",
       "name": "Phone Jarvis",
       "category": "Voice assistant",
-      "status": "Voice assistant APK built / phone test pending",
-      "updatedAt": "2026-10-08T22:49:00+05:30",
+      "status": "Voice assistant APK paired / first test pending",
+      "updatedAt": "2026-10-09T08:06:00+05:30",
       "stage": "Running",
-      "description": "A voice-assistant APK is built; real-phone testing is still pending.",
+      "description": "The app was installed and paired with its watcher; first wake-word test remains pending.",
       "links": []
     },
     {
       "id": "svara",
       "name": "Svara",
       "category": "App",
-      "status": "Wellness tracker demo",
-      "updatedAt": "2026-10-09T00:31:29+05:30",
+      "status": "Wellness tracker demo live",
+      "updatedAt": "2026-10-10T00:34:00+05:30",
       "stage": "Running",
       "description": "A simple daily wellness check-in tracker demo with a public preview.",
       "links": [
@@ -228,8 +232,8 @@
       "id": "personal-intelligence",
       "name": "Personal Intelligence",
       "category": "App",
-      "status": "Personal-search app preview",
-      "updatedAt": "2026-10-09T00:31:29+05:30",
+      "status": "Personal-search app preview live",
+      "updatedAt": "2026-10-10T00:34:00+05:30",
       "stage": "Running",
       "description": "A private personal-search app with a web preview.",
       "links": [
