@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T00:30:00+05:30",
+  "generatedAt": "2026-10-12T00:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 10 publishing paused",
-      "updatedAt": "2026-10-10T10:03:00+05:30",
+      "status": "Oct 11 publishing paused",
+      "updatedAt": "2026-10-11T23:44:00+05:30",
       "stage": "Running",
-      "description": "No Oct 10 Shorts were published; YouTube authorization needs to be refreshed before publishing resumes.",
+      "description": "No Oct 11 Shorts were published; publishing remains paused pending an authorization refresh.",
       "links": [
         {
           "label": "App",
@@ -52,10 +52,6 @@
         {
           "label": "Channel",
           "url": "https://www.youtube.com/@thehumancodeapp"
-        },
-        {
-          "label": "Dhammapada bonus",
-          "url": "https://www.youtube.com/shorts/PXS1R1hYI_Q"
         }
       ]
     },
@@ -97,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 10 scan / no new accessible AI fit",
-      "updatedAt": "2026-10-10T08:14:00+05:30",
+      "status": "Oct 11 scan / review pending",
+      "updatedAt": "2026-10-11T08:16:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 10 scan found no new accessible AI/agent role meeting the scope and budget filters.",
+      "description": "The Oct 11 scan added a candidate for review. No proposal was sent; two items remain pending review.",
       "links": [
         {
           "label": "Gigscan",
@@ -112,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 10 scan / weekend clear",
-      "updatedAt": "2026-10-10T10:07:00+05:30",
+      "status": "Oct 11 scan / Oct 17 event found",
+      "updatedAt": "2026-10-11T10:08:00+05:30",
       "stage": "Running",
-      "description": "No new verified listing was found for the Oct 10-11 weekend.",
+      "description": "A Bangalore event listing for Oct 17 was found and shared for review.",
       "links": []
     },
     {
@@ -137,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 10 audit / publishing paused",
-      "updatedAt": "2026-10-10T23:44:00+05:30",
+      "status": "Oct 11 audit / publishing paused",
+      "updatedAt": "2026-10-11T23:44:00+05:30",
       "stage": "Running",
-      "description": "The Oct 10 audit found no new Shorts; publishing is paused pending authorization refresh.",
+      "description": "The Oct 11 audit found no Shorts published Oct 10 or 11; the latest public uploads are from Oct 9.",
       "links": []
     },
     {
@@ -150,7 +146,7 @@
       "stage": "Running",
       "description": "The public preview returned successfully in the latest check. The prototype is synthetic, with no real earnings or autonomous transactions.",
       "status": "Preview reachable / synthetic prototype",
-      "updatedAt": "2026-10-11T00:30:00+05:30",
+      "updatedAt": "2026-10-12T00:30:00+05:30",
       "links": [
         {
           "label": "Preview",
@@ -183,7 +179,7 @@
       "name": "Svara",
       "category": "App",
       "status": "Wellness tracker demo live",
-      "updatedAt": "2026-10-11T00:30:00+05:30",
+      "updatedAt": "2026-10-12T00:30:00+05:30",
       "stage": "Running",
       "description": "A simple daily wellness check-in tracker demo with a public preview.",
       "links": [
@@ -198,7 +194,7 @@
       "name": "Personal Intelligence",
       "category": "App",
       "status": "Personal-search app preview live",
-      "updatedAt": "2026-10-11T00:30:00+05:30",
+      "updatedAt": "2026-10-12T00:30:00+05:30",
       "stage": "Running",
       "description": "A private personal-search app with a web preview.",
       "links": [
