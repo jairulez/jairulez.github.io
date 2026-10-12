@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T00:30:00+05:30",
+  "generatedAt": "2026-10-13T00:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 11 publishing paused",
-      "updatedAt": "2026-10-11T23:44:00+05:30",
+      "status": "Oct 12 Short live / credit source unavailable",
+      "updatedAt": "2026-10-12T21:13:00+05:30",
       "stage": "Running",
-      "description": "No Oct 11 Shorts were published; publishing remains paused pending an authorization refresh.",
+      "description": "The Oct 12 Short is live and the publishing connection is working. Its image-credit record could not be recovered, so attribution remains unverified.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 11 scan / review pending",
-      "updatedAt": "2026-10-11T08:16:00+05:30",
+      "status": "Oct 12 scan / no new accessible fit",
+      "updatedAt": "2026-10-12T08:16:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 11 scan added a candidate for review. No proposal was sent; two items remain pending review.",
+      "description": "The Oct 12 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
       "links": [
         {
           "label": "Gigscan",
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 11 audit / publishing paused",
-      "updatedAt": "2026-10-11T23:44:00+05:30",
+      "status": "Oct 12 audit / new Short live; credit follow-up",
+      "updatedAt": "2026-10-12T23:44:00+05:30",
       "stage": "Running",
-      "description": "The Oct 11 audit found no Shorts published Oct 10 or 11; the latest public uploads are from Oct 9.",
+      "description": "The Oct 12 Short is live. The audit found the image-credit source could not be recovered; credit attribution is unverified.",
       "links": []
     },
     {
@@ -144,9 +144,9 @@
       "name": "EconAgent",
       "category": "App",
       "stage": "Running",
-      "description": "The public preview returned successfully in the latest check. The prototype is synthetic, with no real earnings or autonomous transactions.",
-      "status": "Preview reachable / synthetic prototype",
-      "updatedAt": "2026-10-12T00:30:00+05:30",
+      "description": "The preview did not respond in the latest check.",
+      "status": "Preview check timed out",
+      "updatedAt": "2026-10-13T00:30:00+05:30",
       "links": [
         {
           "label": "Preview",
