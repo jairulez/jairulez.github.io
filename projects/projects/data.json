@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T00:30:00+05:30",
+  "generatedAt": "2026-10-14T00:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 12 Short live / credit source unavailable",
-      "updatedAt": "2026-10-12T21:13:00+05:30",
+      "status": "Oct 13 Shorts live / image credit unverified",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "stage": "Running",
-      "description": "The Oct 12 Short is live and the publishing connection is working. Its image-credit record could not be recovered, so attribution remains unverified.",
+      "description": "Two Oct 13 Shorts are live and publishing ran. Image-credit source for the evening Short could not be recovered; attribution remains unverified.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 12 scan / no new accessible fit",
-      "updatedAt": "2026-10-12T08:16:00+05:30",
+      "status": "Oct 13 scan / no new accessible fit",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 12 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
+      "description": "The Oct 13 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
       "links": [
         {
           "label": "Gigscan",
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 12 audit / new Short live; credit follow-up",
-      "updatedAt": "2026-10-12T23:44:00+05:30",
+      "status": "Oct 13 audit / two Shorts live; credit follow-up",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "stage": "Running",
-      "description": "The Oct 12 Short is live. The audit found the image-credit source could not be recovered; credit attribution is unverified.",
+      "description": "Both Oct 13 Shorts are live. The audit could not recover the evening Short\u2019s image-credit source; attribution is unverified.",
       "links": []
     },
     {
@@ -144,9 +144,9 @@
       "name": "EconAgent",
       "category": "App",
       "stage": "Running",
-      "description": "The preview did not respond in the latest check.",
+      "description": "The public preview did not respond in the latest check.",
       "status": "Preview check timed out",
-      "updatedAt": "2026-10-13T00:30:00+05:30",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "links": [
         {
           "label": "Preview",
@@ -179,7 +179,7 @@
       "name": "Svara",
       "category": "App",
       "status": "Wellness tracker demo live",
-      "updatedAt": "2026-10-12T00:30:00+05:30",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "stage": "Running",
       "description": "A simple daily wellness check-in tracker demo with a public preview.",
       "links": [
@@ -194,7 +194,7 @@
       "name": "Personal Intelligence",
       "category": "App",
       "status": "Personal-search app preview live",
-      "updatedAt": "2026-10-12T00:30:00+05:30",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
       "stage": "Running",
       "description": "A private personal-search app with a web preview.",
       "links": [
