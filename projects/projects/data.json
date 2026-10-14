@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T00:30:00+05:30",
+  "generatedAt": "2026-10-15T00:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 13 Shorts live / image credit unverified",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "status": "Oct 14 Shorts live / image credit unverified",
+      "updatedAt": "2026-10-15T00:30:00+05:30",
       "stage": "Running",
-      "description": "Two Oct 13 Shorts are live and publishing ran. Image-credit source for the evening Short could not be recovered; attribution remains unverified.",
+      "description": "Four Oct 14 Shorts are live. Image-credit sources remain unverified for the recent uploads.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 13 scan / no new accessible fit",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "status": "Oct 14 scan / no new accessible fit",
+      "updatedAt": "2026-10-14T08:12:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 13 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
+      "description": "The Oct 14 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
       "links": [
         {
           "label": "Gigscan",
@@ -108,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 11 scan / Oct 17 event found",
-      "updatedAt": "2026-10-11T10:08:00+05:30",
+      "status": "Oct 14 scan / Oct 17 listing found",
+      "updatedAt": "2026-10-15T00:30:00+05:30",
       "stage": "Running",
-      "description": "A Bangalore event listing for Oct 17 was found and shared for review.",
+      "description": "A Bangalore psychedelic/techno/hi-tech event listing for Oct 17 remains available for review.",
       "links": []
     },
     {
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 13 audit / two Shorts live; credit follow-up",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "status": "Oct 14 audit / Shorts live; credit follow-up",
+      "updatedAt": "2026-10-15T00:30:00+05:30",
       "stage": "Running",
-      "description": "Both Oct 13 Shorts are live. The audit could not recover the evening Short\u2019s image-credit source; attribution is unverified.",
+      "description": "The Oct 14 audit confirmed four live Shorts. Image-credit sources remain unverified for the recent uploads.",
       "links": []
     },
     {
