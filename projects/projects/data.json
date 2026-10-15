@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-15T00:30:00+05:30",
+  "generatedAt": "2026-10-16T00:30:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 14 Shorts live / image credit unverified",
-      "updatedAt": "2026-10-15T00:30:00+05:30",
+      "status": "Oct 15 Short live / announcements missed",
+      "updatedAt": "2026-10-16T00:30:00+05:30",
       "stage": "Running",
-      "description": "Four Oct 14 Shorts are live. Image-credit sources remain unverified for the recent uploads.",
+      "description": "A new Oct 15 Short is live. Outbound announcements were not delivered; the replies failed, so updates remain pending.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 14 scan / no new accessible fit",
-      "updatedAt": "2026-10-14T08:12:00+05:30",
+      "status": "Oct 15 scan / no new accessible fit",
+      "updatedAt": "2026-10-15T08:12:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 14 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
+      "description": "The Oct 15 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
       "links": [
         {
           "label": "Gigscan",
@@ -108,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 14 scan / Oct 17 listing found",
-      "updatedAt": "2026-10-15T00:30:00+05:30",
+      "status": "Oct 15 scan / electronic events listed",
+      "updatedAt": "2026-10-15T10:08:00+05:30",
       "stage": "Running",
-      "description": "A Bangalore psychedelic/techno/hi-tech event listing for Oct 17 remains available for review.",
+      "description": "Verified electronic music listings are available for Oct 16-17; no dedicated psytrance listing was found for Oct 15 or Oct 18.",
       "links": []
     },
     {
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 14 audit / Shorts live; credit follow-up",
-      "updatedAt": "2026-10-15T00:30:00+05:30",
+      "status": "Oct 15 audit / Short live; announcements failed",
+      "updatedAt": "2026-10-16T00:30:00+05:30",
       "stage": "Running",
-      "description": "The Oct 14 audit confirmed four live Shorts. Image-credit sources remain unverified for the recent uploads.",
+      "description": "The latest Oct 15 Short is live, but expected announcements were not delivered. Follow-up is pending.",
       "links": []
     },
     {
