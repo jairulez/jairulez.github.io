@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 15 Short live / announcements missed",
+      "status": "Oct 15 Short live / follow-up pending",
       "updatedAt": "2026-10-16T00:30:00+05:30",
       "stage": "Running",
-      "description": "A new Oct 15 Short is live. Outbound announcements were not delivered; the replies failed, so updates remain pending.",
+      "description": "The Oct 15 Short is live; follow-up is pending.",
       "links": [
         {
           "label": "App",
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 15 audit / Short live; announcements failed",
+      "status": "Oct 15 audit / follow-up pending",
       "updatedAt": "2026-10-16T00:30:00+05:30",
       "stage": "Running",
-      "description": "The latest Oct 15 Short is live, but expected announcements were not delivered. Follow-up is pending.",
+      "description": "The latest Oct 15 Short is live; follow-up is pending.",
       "links": []
     },
     {
