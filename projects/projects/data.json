@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T00:30:00+05:30",
+  "generatedAt": "2026-10-17T00:30:20+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 15 Short live / follow-up pending",
-      "updatedAt": "2026-10-16T00:30:00+05:30",
+      "status": "Oct 16 Short live",
+      "updatedAt": "2026-10-17T00:30:20+05:30",
       "stage": "Running",
-      "description": "The Oct 15 Short is live; follow-up is pending.",
+      "description": "The Oct 16 Short is live.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 15 scan / no new accessible fit",
-      "updatedAt": "2026-10-15T08:12:00+05:30",
+      "status": "Oct 16 scan / no qualifying fit",
+      "updatedAt": "2026-10-16T08:12:00+05:30",
       "stage": "Needs Jay",
-      "description": "The Oct 15 scan found no new accessible, bounded role meeting the fit and budget filters. No proposal was sent.",
+      "description": "The Oct 16 scan found no qualifying role; no proposal was sent.",
       "links": [
         {
           "label": "Gigscan",
@@ -108,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 15 scan / electronic events listed",
-      "updatedAt": "2026-10-15T10:08:00+05:30",
+      "status": "Oct 16 scan / Oct 17 electronic listings",
+      "updatedAt": "2026-10-16T10:08:00+05:30",
       "stage": "Running",
-      "description": "Verified electronic music listings are available for Oct 16-17; no dedicated psytrance listing was found for Oct 15 or Oct 18.",
+      "description": "The Oct 16 scan found public listings for electronic events on Oct 17.",
       "links": []
     },
     {
@@ -133,10 +133,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 15 audit / follow-up pending",
-      "updatedAt": "2026-10-16T00:30:00+05:30",
+      "status": "Oct 16 audit / latest upload verified",
+      "updatedAt": "2026-10-17T00:30:20+05:30",
       "stage": "Running",
-      "description": "The latest Oct 15 Short is live; follow-up is pending.",
+      "description": "The latest Oct 16 Short is live and verified.",
       "links": []
     },
     {
