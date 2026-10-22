@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-22T00:31:00+05:30",
+  "generatedAt": "2026-10-23T00:29:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 21 run failed / no Short since Oct 18",
-      "updatedAt": "2026-10-21T18:50:24+05:30",
+      "status": "Oct 22 run failed / no Short since Oct 18",
+      "updatedAt": "2026-10-22T16:01:43+05:30",
       "stage": "Running",
-      "description": "The latest channel Short remains live, but the Oct 21 run failed; no new Short has posted since Oct 18.",
+      "description": "The latest channel Short remains live, but the Oct 22 run failed; no new Short has posted since Oct 18.",
       "links": [
         {
           "label": "App",
@@ -93,8 +93,8 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 21 scan / 2 potential picks awaiting Jay",
-      "updatedAt": "2026-10-21T08:15:00+05:30",
+      "status": "Oct 22 scan / 2 potential picks awaiting Jay",
+      "updatedAt": "2026-10-22T08:15:00+05:30",
       "stage": "Needs Jay",
       "description": "The daily scan found two potential fits; no proposal or client contact was sent.",
       "links": [
@@ -108,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 21 scan / Oct 24 listing found",
-      "updatedAt": "2026-10-21T10:08:00+05:30",
+      "status": "Oct 22 scan / Oct 24 listing found",
+      "updatedAt": "2026-10-22T10:08:00+05:30",
       "stage": "Running",
-      "description": "No verified listing for Oct 21. Sajanka Live is listed for Sat Oct 24 at Sunburn Union; tickets from ₹499.",
+      "description": "No verified listing for Oct 22. Sajanka Live is listed for Sat Oct 24 at Sunburn Union; tickets from ₹499.",
       "links": [
         {
           "label": "Tickets",
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 21 audit / latest Short remains live",
-      "updatedAt": "2026-10-21T23:44:36+05:30",
+      "status": "Oct 22 audit / latest Short remains live",
+      "updatedAt": "2026-10-22T23:44:38+05:30",
       "stage": "Running",
-      "description": "QA confirms no new Short since Oct 18. The Oct 21 run failed after a readiness fix.",
+      "description": "QA confirms no new Short since Oct 18. The Oct 22 run failed after a readiness fix.",
       "links": []
     },
     {
@@ -164,9 +164,9 @@
       "name": "SiteGuard",
       "category": "Website maintenance",
       "status": "Daily Actions scans live",
-      "updatedAt": "2026-10-21T08:49:07+05:30",
+      "updatedAt": "2026-10-22T08:51:23+05:30",
       "stage": "Running",
-      "description": "GitHub Actions scans 9 public sites daily; latest run completed Oct 21.",
+      "description": "GitHub Actions scans 9 public sites daily; latest run completed Oct 22.",
       "links": [
         {
           "label": "Repo",
