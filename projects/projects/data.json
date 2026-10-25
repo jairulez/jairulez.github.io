@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-25T00:29:00+05:30",
+  "generatedAt": "2026-10-26T00:34:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 24 run failed / no Short since Oct 18",
-      "updatedAt": "2026-10-24T16:01:06+05:30",
+      "status": "Oct 25 run failed / no Short since Oct 18",
+      "updatedAt": "2026-10-25T16:01:06+05:30",
       "stage": "Running",
-      "description": "The latest channel Short remains live, but the Oct 24 run failed; no new Short has posted since Oct 18.",
+      "description": "The latest channel Short remains live, but the Oct 25 run failed; no new Short has posted since Oct 18.",
       "links": [
         {
           "label": "App",
@@ -93,10 +93,10 @@
       "id": "gigs",
       "name": "Freelance gig hunter",
       "category": "Work pipeline",
-      "status": "Oct 24 scan / 3 conditional leads under review",
-      "updatedAt": "2026-10-24T08:35:00+05:30",
+      "status": "Oct 25 scan / 3 leads shared; scope review continues",
+      "updatedAt": "2026-10-25T10:55:00+05:30",
       "stage": "Needs Jay",
-      "description": "The daily scan found three potential leads; technical scope is still under review, and no proposals or prices were approved.",
+      "description": "Three conditional leads were shared Oct 25; technical and scope review continues. No proposal, draft, quote or bid was approved.",
       "links": [
         {
           "label": "Gigscan",
@@ -108,11 +108,16 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 25 scan / no new verified listings",
-      "updatedAt": "2026-10-25T00:29:00+05:30",
+      "status": "Oct 25 scan / Oct 31 listing verified",
+      "updatedAt": "2026-10-25T10:08:00+05:30",
       "stage": "Running",
-      "description": "No new verified Bengaluru psytrance listing found for Oct 25. Sajanka Live at Sunburn Union was listed for Sat Oct 24; that date has passed.",
-      "links": []
+      "description": "A Bengaluru psytrance event is listed for Sat Oct 31 at High Ultra Lounge. Check ticket availability and terms at the event link.",
+      "links": [
+        {
+          "label": "Event",
+          "url": "https://in.bookmyshow.com/events/z-cat-live-in-bangalore/ET00523279"
+        }
+      ]
     },
     {
       "id": "nammareply",
@@ -133,8 +138,8 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 24 audit / latest Short remains live",
-      "updatedAt": "2026-10-24T23:44:00+05:30",
+      "status": "Oct 25 audit / latest Short remains live",
+      "updatedAt": "2026-10-25T23:44:00+05:30",
       "stage": "Running",
       "description": "QA confirms no new Short since Oct 18. The latest verified run failed; the channel is awaiting a key fix.",
       "links": []
@@ -159,9 +164,9 @@
       "name": "SiteGuard",
       "category": "Website maintenance",
       "status": "Daily Actions scans live",
-      "updatedAt": "2026-10-24T13:51:07+05:30",
+      "updatedAt": "2026-10-25T14:09:37+05:30",
       "stage": "Running",
-      "description": "GitHub Actions scans 9 public sites daily; latest run completed Oct 24.",
+      "description": "GitHub Actions scans 9 public sites daily; latest run completed Oct 25.",
       "links": [
         {
           "label": "Repo",
