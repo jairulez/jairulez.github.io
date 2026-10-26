@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T10:10:00+05:30",
+  "generatedAt": "2026-10-27T00:33:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Oct 25 run failed / no Short since Oct 18",
-      "updatedAt": "2026-10-25T16:01:06+05:30",
+      "status": "Latest run #187 gated; no upload / no Short since Oct 18",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
-      "description": "The latest channel Short remains live, but the Oct 25 run failed; no new Short has posted since Oct 18.",
+      "description": "The Oct 27 scheduled run was gated before generation, and no new Short has posted since Oct 18. The latest channel Short remains live.",
       "links": [
         {
           "label": "App",
@@ -109,9 +109,9 @@
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
       "status": "Oct 31 Z-Cat listing cancelled",
-      "updatedAt": "2026-10-26T10:09:00+05:30",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
-      "description": "District marks the Oct 31 Z-Cat event at High Ultra Lounge cancelled. BookMyShow still shows ticket tiers, but availability is unreliable. No replacement listing is verified.",
+      "description": "District continues to mark the Oct 31 Z-Cat event cancelled. No replacement listing has been verified.",
       "links": [
         {
           "label": "District status",
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 25 audit / latest Short remains live",
-      "updatedAt": "2026-10-25T23:44:00+05:30",
+      "status": "Oct 27 audit: latest run gated; latest Short remains live",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
-      "description": "QA confirms no new Short since Oct 18. The latest verified run failed; the channel is awaiting a key fix.",
+      "description": "The Oct 27 run was skipped by its schedule gate, before generation or upload. The latest verified Short remains live; no new Short since Oct 18.",
       "links": []
     },
     {
@@ -163,10 +163,10 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Daily Actions scans live",
-      "updatedAt": "2026-10-25T14:09:37+05:30",
+      "status": "Daily scan completed Oct 26",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
-      "description": "GitHub Actions scans 9 public sites daily; latest run completed Oct 25.",
+      "description": "The latest Actions run completed Oct 26; reports showed no newly detected issues across the monitored public sites.",
       "links": [
         {
           "label": "Repo",
@@ -189,7 +189,7 @@
       "name": "Svara",
       "category": "App",
       "status": "Wellness tracker demo live",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
       "description": "A simple daily wellness check-in tracker demo with a public preview.",
       "links": [
@@ -204,7 +204,7 @@
       "name": "Personal Intelligence",
       "category": "App",
       "status": "Personal-search app preview live",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
       "description": "A private personal-search app with a web preview.",
       "links": [
@@ -214,5 +214,6 @@
         }
       ]
     }
-  ]
+  ],
+  "updatedAt": "2026-10-27T00:33:00+05:30"
 }
