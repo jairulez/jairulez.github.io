@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-26T00:34:00+05:30",
+  "generatedAt": "2026-10-26T10:10:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -108,14 +108,14 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 25 scan / Oct 31 listing verified",
-      "updatedAt": "2026-10-25T10:08:00+05:30",
+      "status": "Oct 31 Z-Cat listing cancelled",
+      "updatedAt": "2026-10-26T10:09:00+05:30",
       "stage": "Running",
-      "description": "A Bengaluru psytrance event is listed for Sat Oct 31 at High Ultra Lounge. Check ticket availability and terms at the event link.",
+      "description": "District marks the Oct 31 Z-Cat event at High Ultra Lounge cancelled. BookMyShow still shows ticket tiers, but availability is unreliable. No replacement listing is verified.",
       "links": [
         {
-          "label": "Event",
-          "url": "https://in.bookmyshow.com/events/z-cat-live-in-bangalore/ET00523279"
+          "label": "District status",
+          "url": "https://www.district.in/events/z-cat-live-in-bangalore-oct31-2026-buy-tickets"
         }
       ]
     },
