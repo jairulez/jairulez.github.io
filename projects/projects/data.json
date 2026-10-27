@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T00:33:00+05:30",
+  "generatedAt": "2026-10-28T00:32:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Latest run #187 gated; no upload / no Short since Oct 18",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
+      "status": "Latest run #192 gated; no upload / no Short since Oct 18",
+      "updatedAt": "2026-10-28T00:32:00+05:30",
       "stage": "Running",
-      "description": "The Oct 27 scheduled run was gated before generation, and no new Short has posted since Oct 18. The latest channel Short remains live.",
+      "description": "The Oct 28 scheduled run completed its gate but skipped generation and upload; no new Short has posted since Oct 18. The latest channel Short remains live.",
       "links": [
         {
           "label": "App",
@@ -109,7 +109,7 @@
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
       "status": "Oct 31 Z-Cat listing cancelled",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
+      "updatedAt": "2026-10-28T00:32:00+05:30",
       "stage": "Running",
       "description": "District continues to mark the Oct 31 Z-Cat event cancelled. No replacement listing has been verified.",
       "links": [
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 27 audit: latest run gated; latest Short remains live",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
+      "status": "Oct 28 audit: latest run gated; latest Short remains live",
+      "updatedAt": "2026-10-28T00:32:00+05:30",
       "stage": "Running",
-      "description": "The Oct 27 run was skipped by its schedule gate, before generation or upload. The latest verified Short remains live; no new Short since Oct 18.",
+      "description": "The Oct 28 run was skipped by its schedule gate, before generation or upload. The latest verified Short remains live; no new Short since Oct 18.",
       "links": []
     },
     {
@@ -163,10 +163,10 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Daily scan completed Oct 26",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
+      "status": "Daily scan completed Oct 27",
+      "updatedAt": "2026-10-28T00:32:00+05:30",
       "stage": "Running",
-      "description": "The latest Actions run completed Oct 26; reports showed no newly detected issues across the monitored public sites.",
+      "description": "The latest Actions scan completed Oct 27; reports showed no newly detected issues across monitored sites. The Svara Render target still timed out.",
       "links": [
         {
           "label": "Repo",
@@ -215,5 +215,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-27T00:33:00+05:30"
+  "updatedAt": "2026-10-28T00:32:00+05:30"
 }
