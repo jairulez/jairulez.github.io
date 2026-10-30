@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T00:31:00+05:30",
+  "generatedAt": "2026-10-30T00:42:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Latest run #197 gated; no upload / no Short since Oct 18",
+      "status": "Latest run #202 failed before upload; no new Short since Oct 18",
       "updatedAt": "2026-10-29T00:31:00+05:30",
       "stage": "Running",
-      "description": "The Oct 29 scheduled run completed its gate but skipped generation and upload; no new Short has posted since Oct 18. The latest channel Short remains live.",
+      "description": "The Oct 30 run failed before any upload was indicated. The latest verified channel Short remains live from Oct 18.",
       "links": [
         {
           "label": "App",
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 29 audit: latest run gated; latest Short remains live",
+      "status": "Oct 30 audit: latest run failed; latest Short remains live",
       "updatedAt": "2026-10-29T00:31:00+05:30",
       "stage": "Running",
-      "description": "The Oct 29 run was skipped by its schedule gate, before generation or upload. The latest verified Short remains live; no new Short since Oct 18.",
+      "description": "The Oct 30 run failed before any upload was indicated. The latest verified channel Short remains live from Oct 18.",
       "links": []
     },
     {
@@ -163,10 +163,10 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Daily scan completed Oct 28",
+      "status": "Daily scan completed Oct 29",
       "updatedAt": "2026-10-29T00:31:00+05:30",
       "stage": "Running",
-      "description": "The latest Actions scan completed Oct 28; reports showed no newly detected issues across monitored sites. The Svara Render target still timed out.",
+      "description": "The latest Actions scan completed Oct 29. Reports found no new issues; Svara timed out during the scan.",
       "links": [
         {
           "label": "Repo",
@@ -188,10 +188,10 @@
       "id": "svara",
       "name": "Svara",
       "category": "App",
-      "status": "Wellness tracker demo live",
+      "status": "Wellness tracker demo available",
       "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
-      "description": "A simple daily wellness check-in tracker demo with a public preview.",
+      "description": "A daily wellness check-in tracker demo with a public preview.",
       "links": [
         {
           "label": "Preview",
@@ -203,7 +203,7 @@
       "id": "personal-intelligence",
       "name": "Personal Intelligence",
       "category": "App",
-      "status": "Personal-search app preview live",
+      "status": "Private personal-search app preview live",
       "updatedAt": "2026-10-27T00:33:00+05:30",
       "stage": "Running",
       "description": "A private personal-search app with a web preview.",
@@ -215,5 +215,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-29T00:31:00+05:30"
+  "updatedAt": "2026-10-30T00:42:00+05:30"
 }
