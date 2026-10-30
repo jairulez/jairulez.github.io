@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-30T00:42:00+05:30",
+  "generatedAt": "2026-10-31T00:40:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Latest run #202 failed before upload; no new Short since Oct 18",
-      "updatedAt": "2026-10-29T00:31:00+05:30",
+      "status": "Latest attempted generation #204 failed before upload",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
       "stage": "Running",
-      "description": "The Oct 30 run failed before any upload was indicated. The latest verified channel Short remains live from Oct 18.",
+      "description": "The Oct 30 generation failed with an upstream API 401 before any upload was indicated. Later scheduled slot checks #205-207 did not run generation; the latest verified channel Short remains live from Oct 18.",
       "links": [
         {
           "label": "App",
@@ -108,10 +108,10 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Oct 31 Z-Cat listing cancelled",
-      "updatedAt": "2026-10-29T00:31:00+05:30",
+      "status": "Z-Cat event listing shows Cancelled",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
       "stage": "Running",
-      "description": "District continues to mark the Oct 31 Z-Cat event cancelled. No replacement listing has been verified.",
+      "description": "District currently shows the Z-Cat event listing as Cancelled. The listing also displayed a ticket-registration flow, so availability is inconsistent; treat event status as unverified.",
       "links": [
         {
           "label": "District status",
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 30 audit: latest run failed; latest Short remains live",
-      "updatedAt": "2026-10-29T00:31:00+05:30",
+      "status": "Oct 30 audit: #204 failed; #205-207 skipped at gate",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
       "stage": "Running",
-      "description": "The Oct 30 run failed before any upload was indicated. The latest verified channel Short remains live from Oct 18.",
+      "description": "The latest attempted generation (#204) failed before any upload was indicated. Later scheduled slot checks #205-207 were gated off; the latest verified channel Short remains live from Oct 18.",
       "links": []
     },
     {
@@ -163,10 +163,341 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Daily scan completed Oct 29",
-      "updatedAt": "2026-10-29T00:31:00+05:30",
+      "status": "Scan completed Oct 30; no new Svara issues",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
       "stage": "Running",
-      "description": "The latest Actions scan completed Oct 29. Reports found no new issues; Svara timed out during the scan.",
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T00:40:00+05:30",
+  "timezone": "Asia/Kolkata",
+  "projects": [
+    {
+      "id": "furfree",
+      "name": "FurFree India",
+      "category": "Storefront",
+      "status": "Site live",
+      "updatedAt": "2026-09-25T22:04:00+05:30",
+      "stage": "Needs Jay",
+      "description": "Visit the product page and order-interest form.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/furfree-india/"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@tryfurfree"
+        },
+        {
+          "label": "Order form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScVSOY5Qd0FDMAbKMcrsiOZlRQXo-CUIWdwiHd3Gr8uyXdGlw/viewform"
+        }
+      ]
+    },
+    {
+      "id": "dropship",
+      "name": "Top-4 dropship launch",
+      "category": "Commerce",
+      "status": "In development",
+      "updatedAt": "2026-09-25T11:23:27+05:30",
+      "stage": "Needs Jay",
+      "description": "A four-product storefront is in planning; products and fulfillment have not launched.",
+      "links": []
+    },
+    {
+      "id": "humancode",
+      "name": "The Human Code",
+      "category": "Publishing",
+      "status": "Latest attempted generation #204 failed before upload",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "The Oct 30 generation failed with an upstream API 401 before any upload was indicated. Later scheduled slot checks #205-207 did not run generation; the latest verified channel Short remains live from Oct 18.",
+      "links": [
+        {
+          "label": "App",
+          "url": "https://the-human-code.onrender.com"
+        },
+        {
+          "label": "Channel",
+          "url": "https://www.youtube.com/@thehumancodeapp"
+        }
+      ]
+    },
+    {
+      "id": "subwatch",
+      "name": "SubWatch",
+      "category": "App",
+      "status": "Public landing live",
+      "updatedAt": "2026-09-24T00:33:36+05:30",
+      "stage": "Needs Jay",
+      "description": "Subscription tracking app with a public landing page.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/subwatch/"
+        }
+      ]
+    },
+    {
+      "id": "highbrow",
+      "name": "Highbrow",
+      "category": "Content",
+      "status": "Q&A UI live, moderated workflow not end-to-end rechecked",
+      "updatedAt": "2026-10-10T08:33:00+05:30",
+      "stage": "Needs Jay",
+      "description": "The education page and sourced-question UI are live. Reviewer submissions and end-to-end moderation remain unverified.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/highbrow/"
+        },
+        {
+          "label": "Repo",
+          "url": "https://github.com/jairulez/highbrow"
+        }
+      ]
+    },
+    {
+      "id": "gigs",
+      "name": "Freelance gig hunter",
+      "category": "Work pipeline",
+      "status": "Oct 25 scan / 3 leads shared; scope review continues",
+      "updatedAt": "2026-10-25T10:55:00+05:30",
+      "stage": "Needs Jay",
+      "description": "Three conditional leads were shared Oct 25; technical and scope review continues. No proposal, draft, quote or bid was approved.",
+      "links": [
+        {
+          "label": "Gigscan",
+          "url": "https://jairulez.github.io/gigscan/"
+        }
+      ]
+    },
+    {
+      "id": "psytrance",
+      "name": "Bangalore psytrance scan",
+      "category": "Discovery",
+      "status": "Z-Cat event listing shows Cancelled",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "District currently shows the Z-Cat event listing as Cancelled. The listing also displayed a ticket-registration flow, so availability is inconsistent; treat event status as unverified.",
+      "links": [
+        {
+          "label": "District status",
+          "url": "https://www.district.in/events/z-cat-live-in-bangalore-oct31-2026-buy-tickets"
+        }
+      ]
+    },
+    {
+      "id": "nammareply",
+      "name": "NammaReply",
+      "category": "Business",
+      "status": "Services section live",
+      "updatedAt": "2026-10-21T23:08:21+05:30",
+      "stage": "Running",
+      "description": "The landing page now includes a services section for local businesses.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/nammareply/"
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "name": "Output quality check",
+      "category": "Oversight",
+      "status": "Oct 30 audit: #204 failed; #205-207 skipped at gate",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "The latest attempted generation (#204) failed before any upload was indicated. Later scheduled slot checks #205-207 were gated off; the latest verified channel Short remains live from Oct 18.",
+      "links": []
+    },
+    {
+      "id": "econagent",
+      "name": "EconAgent",
+      "category": "App",
+      "stage": "Running",
+      "description": "The public preview did not respond in the latest check.",
+      "status": "Preview check timed out",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "links": [
+        {
+          "label": "Preview",
+          "url": "https://econagent-preview.onrender.com/"
+        }
+      ]
+    },
+    {
+      "id": "siteguard",
+      "name": "SiteGuard",
+      "category": "Website maintenance",
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T00:40:00+05:30",
+  "timezone": "Asia/Kolkata",
+  "projects": [
+    {
+      "id": "furfree",
+      "name": "FurFree India",
+      "category": "Storefront",
+      "status": "Site live",
+      "updatedAt": "2026-09-25T22:04:00+05:30",
+      "stage": "Needs Jay",
+      "description": "Visit the product page and order-interest form.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/furfree-india/"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@tryfurfree"
+        },
+        {
+          "label": "Order form",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLScVSOY5Qd0FDMAbKMcrsiOZlRQXo-CUIWdwiHd3Gr8uyXdGlw/viewform"
+        }
+      ]
+    },
+    {
+      "id": "dropship",
+      "name": "Top-4 dropship launch",
+      "category": "Commerce",
+      "status": "In development",
+      "updatedAt": "2026-09-25T11:23:27+05:30",
+      "stage": "Needs Jay",
+      "description": "A four-product storefront is in planning; products and fulfillment have not launched.",
+      "links": []
+    },
+    {
+      "id": "humancode",
+      "name": "The Human Code",
+      "category": "Publishing",
+      "status": "Latest generation attempt failed; latest Short remains live",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "The Oct 30 generation attempt failed before any upload was indicated. Later scheduled checks did not run generation; the latest verified channel Short remains live from Oct 18.",
+      "links": [
+        {
+          "label": "App",
+          "url": "https://the-human-code.onrender.com"
+        },
+        {
+          "label": "Channel",
+          "url": "https://www.youtube.com/@thehumancodeapp"
+        }
+      ]
+    },
+    {
+      "id": "subwatch",
+      "name": "SubWatch",
+      "category": "App",
+      "status": "Public landing live",
+      "updatedAt": "2026-09-24T00:33:36+05:30",
+      "stage": "Needs Jay",
+      "description": "Subscription tracking app with a public landing page.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/subwatch/"
+        }
+      ]
+    },
+    {
+      "id": "highbrow",
+      "name": "Highbrow",
+      "category": "Content",
+      "status": "Q&A UI live, moderated workflow not end-to-end rechecked",
+      "updatedAt": "2026-10-10T08:33:00+05:30",
+      "stage": "Needs Jay",
+      "description": "The education page and sourced-question UI are live. Reviewer submissions and end-to-end moderation remain unverified.",
+      "links": [
+        {
+          "label": "Landing",
+          "url": "https://jairulez.github.io/highbrow/"
+        },
+        {
+          "label": "Repo",
+          "url": "https://github.com/jairulez/highbrow"
+        }
+      ]
+    },
+    {
+      "id": "gigs",
+      "name": "Freelance gig hunter",
+      "category": "Work pipeline",
+      "status": "Oct 25 scan / 3 leads shared; scope review continues",
+      "updatedAt": "2026-10-25T10:55:00+05:30",
+      "stage": "Needs Jay",
+      "description": "Three conditional leads were shared Oct 25; technical and scope review continues. No proposal, draft, quote or bid was approved.",
+      "links": [
+        {
+          "label": "Gigscan",
+          "url": "https://jairulez.github.io/gigscan/"
+        }
+      ]
+    },
+    {
+      "id": "psytrance",
+      "name": "Bangalore psytrance scan",
+      "category": "Discovery",
+      "status": "Z-Cat event listing shows Cancelled",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "District currently shows the Z-Cat event listing as Cancelled. The listing also displayed a ticket-registration flow, so availability is inconsistent; treat event status as unverified.",
+      "links": [
+        {
+          "label": "District status",
+          "url": "https://www.district.in/events/z-cat-live-in-bangalore-oct31-2026-buy-tickets"
+        }
+      ]
+    },
+    {
+      "id": "nammareply",
+      "name": "NammaReply",
+      "category": "Business",
+      "status": "Services section live",
+      "updatedAt": "2026-10-21T23:08:21+05:30",
+      "stage": "Running",
+      "description": "The landing page now includes a services section for local businesses.",
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://jairulez.github.io/nammareply/"
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "name": "Output quality check",
+      "category": "Oversight",
+      "status": "Oct 30 audit: generation failed; later checks skipped",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "The Oct 30 generation attempt failed before any upload was indicated. Later scheduled checks did not run generation; the latest verified channel Short remains live from Oct 18.",
+      "links": []
+    },
+    {
+      "id": "econagent",
+      "name": "EconAgent",
+      "category": "App",
+      "stage": "Running",
+      "description": "The public preview did not respond in the latest check.",
+      "status": "Preview check timed out",
+      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "links": [
+        {
+          "label": "Preview",
+          "url": "https://econagent-preview.onrender.com/"
+        }
+      ]
+    },
+    {
+      "id": "siteguard",
+      "name": "SiteGuard",
+      "category": "Website maintenance",
+      "status": "Scan completed Oct 30; no new Svara issues",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "stage": "Running",
+      "description": "The latest SiteGuard scan completed Oct 30 with no new Svara issues detected. The Svara reports are dated Oct 29; the Render target timed out.",
       "links": [
         {
           "label": "Repo",
@@ -188,10 +519,10 @@
       "id": "svara",
       "name": "Svara",
       "category": "App",
-      "status": "Wellness tracker demo available",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
+      "status": "Wellness tracker demo available; latest scan found no new issues",
+      "updatedAt": "2026-10-31T00:40:00+05:30",
       "stage": "Running",
-      "description": "A daily wellness check-in tracker demo with a public preview.",
+      "description": "A daily wellness check-in tracker demo with a public preview. The latest SiteGuard scan completed Oct 30 and found no new issues; the Svara report is dated Oct 29. No health claims.",
       "links": [
         {
           "label": "Preview",
@@ -215,5 +546,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-30T00:42:00+05:30"
-}
+  "updatedAt": "2026-10-31T00:40:00+05:30"
+    }
