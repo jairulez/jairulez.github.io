@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Nov 18 scheduled run #296 failed; channel still shows 92 videos",
+      "status": "Nov 18 check: run #296 failed; scheduled-slot attribution unconfirmed",
       "updatedAt": "2026-11-18T00:32:00+05:30",
       "stage": "Running",
-      "description": "The latest scheduled automation attempt failed. The public channel still shows 92 videos, with no newer Short visible in the latest check.",
+      "description": "Run #296 was observed failed on Nov 18. Its scheduled-slot attribution is unconfirmed. The public channel still shows 92 videos, with no newer Short visible in the latest check.",
       "links": [
         {
           "label": "App",
