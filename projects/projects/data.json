@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T00:40:00+05:30",
+  "generatedAt": "2026-11-18T00:41:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -30,20 +30,20 @@
       "id": "dropship",
       "name": "Top-4 dropship launch",
       "category": "Commerce",
-      "status": "In development",
-      "updatedAt": "2026-09-25T11:23:27+05:30",
-      "stage": "Needs Jay",
-      "description": "A four-product storefront is in planning; products and fulfillment have not launched.",
+      "status": "Top-four launch canceled; project archived",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "The launch is canceled. Existing planning artifacts are archived, not current build work.",
       "links": []
     },
     {
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Latest generation attempt failed; latest Short remains live",
-      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "status": "Nov 18 scheduled run #296 failed; channel still shows 92 videos",
+      "updatedAt": "2026-11-18T00:32:00+05:30",
       "stage": "Running",
-      "description": "The Oct 30 generation attempt failed before any upload was indicated. Later scheduled checks did not run generation; the latest verified channel Short remains live from Oct 18.",
+      "description": "The latest scheduled automation attempt failed. The public channel still shows 92 videos, with no newer Short visible in the latest check.",
       "links": [
         {
           "label": "App",
@@ -59,10 +59,10 @@
       "id": "subwatch",
       "name": "SubWatch",
       "category": "App",
-      "status": "Public landing live",
-      "updatedAt": "2026-09-24T00:33:36+05:30",
-      "stage": "Needs Jay",
-      "description": "Subscription tracking app with a public landing page.",
+      "status": "MVP follow-up canceled; landing page available",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "The existing landing page remains available. The MVP follow-up is canceled and is not current development.",
       "links": [
         {
           "label": "Landing",
@@ -74,10 +74,10 @@
       "id": "highbrow",
       "name": "Highbrow",
       "category": "Content",
-      "status": "Q&A UI live, moderated workflow not end-to-end rechecked",
-      "updatedAt": "2026-10-10T08:33:00+05:30",
-      "stage": "Needs Jay",
-      "description": "The education page and sourced-question UI are live. Reviewer submissions and end-to-end moderation remain unverified.",
+      "status": "Channel setup canceled; Q&A page available",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "The existing Q&A page is available. Channel setup is canceled and is not current work.",
       "links": [
         {
           "label": "Landing",
@@ -123,10 +123,10 @@
       "id": "nammareply",
       "name": "NammaReply",
       "category": "Business",
-      "status": "Services section live",
-      "updatedAt": "2026-10-21T23:08:21+05:30",
-      "stage": "Running",
-      "description": "The landing page now includes a services section for local businesses.",
+      "status": "Stage 1 build canceled; landing page available",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "The existing landing page remains available. Stage 1 development is canceled and is not current work.",
       "links": [
         {
           "label": "Site",
@@ -138,20 +138,20 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Oct 30 audit: generation failed; later checks skipped",
-      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "status": "Nov 17 limited review; checked sources unchanged, coverage partial",
+      "updatedAt": "2026-11-17T23:44:00+05:30",
       "stage": "Running",
-      "description": "The Oct 30 generation attempt failed before any upload was indicated. Later scheduled checks did not run generation; the latest verified channel Short remains live from Oct 18.",
+      "description": "The Nov 17 review checked selected sources only; the public feed was unchanged and no new confirmed defect was identified in the checked scope. It was not a full audit.",
       "links": []
     },
     {
       "id": "econagent",
       "name": "EconAgent",
       "category": "App",
-      "stage": "Running",
-      "description": "The public preview did not respond in the latest check.",
-      "status": "Preview check timed out",
-      "updatedAt": "2026-10-14T00:30:00+05:30",
+      "stage": "Archived",
+      "description": "The platform build is canceled; its previous preview is retained as an archived artifact, not an active obligation.",
+      "status": "Platform build canceled; preview retained as archive",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
       "links": [
         {
           "label": "Preview",
@@ -163,10 +163,10 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Scan completed Oct 30; no new Svara issues",
-      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "status": "Build/pilot canceled; scheduled Svara checks continue",
+      "updatedAt": "2026-11-18T00:32:00+05:30",
       "stage": "Running",
-      "description": "The latest SiteGuard scan completed Oct 30 with no new Svara issues detected. The Svara reports are dated Oct 29; the Render target timed out.",
+      "description": "The SiteGuard build/pilot is canceled; scheduled Svara scans continue separately. The Nov 17 report found the static page reachable and the Render target timed out.",
       "links": [
         {
           "label": "Repo",
@@ -178,20 +178,20 @@
       "id": "jarvis",
       "name": "Phone Jarvis",
       "category": "Voice assistant",
-      "status": "Voice assistant APK paired / first test pending",
-      "updatedAt": "2026-10-09T08:06:00+05:30",
-      "stage": "Running",
-      "description": "The app and watcher are paired; the first wake-word test remains pending.",
+      "status": "Voice assistant build canceled; prior work archived",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "The voice-assistant build is canceled. Existing setup artifacts are historical, not current work.",
       "links": []
     },
     {
       "id": "svara",
       "name": "Svara",
       "category": "App",
-      "status": "Wellness tracker demo available; latest scan found no new issues",
-      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "status": "Wellness-tracker demo; Nov 17 scan found the static page reachable and Render timed out",
+      "updatedAt": "2026-11-18T00:32:00+05:30",
       "stage": "Running",
-      "description": "A daily wellness check-in tracker demo with a public preview. The latest SiteGuard scan completed Oct 30 and found no new issues; the Svara report is dated Oct 29. No health claims.",
+      "description": "A generic wellness-tracker demo with a public preview. The Nov 17 scan found the static page reachable; a separate Render check timed out.",
       "links": [
         {
           "label": "Preview",
@@ -203,10 +203,10 @@
       "id": "personal-intelligence",
       "name": "Personal Intelligence",
       "category": "App",
-      "status": "Private personal-search app preview live",
-      "updatedAt": "2026-10-27T00:33:00+05:30",
-      "stage": "Running",
-      "description": "A private personal-search app with a web preview.",
+      "status": "Build canceled; preview retained as archive",
+      "updatedAt": "2026-11-17T00:34:00+05:30",
+      "stage": "Archived",
+      "description": "A private personal-search app. Its build is canceled; its previous preview is retained as an archive, not active development.",
       "links": [
         {
           "label": "Preview",
@@ -215,5 +215,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-10-31T00:40:00+05:30"
+  "updatedAt": "2026-11-18T00:41:00+05:30"
 }
