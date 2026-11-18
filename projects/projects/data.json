@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T00:41:00+05:30",
+  "generatedAt": "2026-11-19T00:35:00+05:30",
   "timezone": "Asia/Kolkata",
   "projects": [
     {
@@ -40,10 +40,10 @@
       "id": "humancode",
       "name": "The Human Code",
       "category": "Publishing",
-      "status": "Nov 18 check: run #296 failed; scheduled-slot attribution unconfirmed",
-      "updatedAt": "2026-11-18T00:32:00+05:30",
+      "status": "Nov 18 9 AM run #299 failed; 6 PM slot not listed; channel remains at 92 Shorts",
+      "updatedAt": "2026-11-19T00:31:00+05:30",
       "stage": "Running",
-      "description": "Run #296 was observed failed on Nov 18. Its scheduled-slot attribution is unconfirmed. The public channel still shows 92 videos, with no newer Short visible in the latest check.",
+      "description": "The Nov 18 9 AM anchor failed during generation and upload. The selected 6 PM run was not listed at the final check; the public channel still showed 92 Shorts at the Nov 19 check.",
       "links": [
         {
           "label": "App",
@@ -108,14 +108,14 @@
       "id": "psytrance",
       "name": "Bangalore psytrance scan",
       "category": "Discovery",
-      "status": "Z-Cat event listing shows Cancelled",
-      "updatedAt": "2026-10-31T00:40:00+05:30",
+      "status": "Dec 5 listing found; ticket availability unconfirmed",
+      "updatedAt": "2026-11-19T00:33:00+05:30",
       "stage": "Running",
-      "description": "District currently shows the Z-Cat event listing as Cancelled. The listing also displayed a ticket-registration flow, so availability is inconsistent; treat event status as unverified.",
+      "description": "The Nov 18 scan found a Dec 5 listing at Zozo Club, Bangalore. Ticket quantities showed as zero, so sale availability is unconfirmed. The scan report did not confirm a qualifying listing for Nov 20-22.",
       "links": [
         {
-          "label": "District status",
-          "url": "https://www.district.in/events/z-cat-live-in-bangalore-oct31-2026-buy-tickets"
+          "label": "Event listing",
+          "url": "https://idamoss.com/listing/yamantaka-live-roots-of-trance-bangalore/"
         }
       ]
     },
@@ -138,10 +138,10 @@
       "id": "qa",
       "name": "Output quality check",
       "category": "Oversight",
-      "status": "Nov 17 limited review; checked sources unchanged, coverage partial",
-      "updatedAt": "2026-11-17T23:44:00+05:30",
+      "status": "Nov 18 limited audit; selected checks only, no broad all-clear",
+      "updatedAt": "2026-11-18T23:44:00+05:30",
       "stage": "Running",
-      "description": "The Nov 17 review checked selected sources only; the public feed was unchanged and no new confirmed defect was identified in the checked scope. It was not a full audit.",
+      "description": "The limited review found the public feed unchanged and no new confirmed defect in sources it checked. Other project areas were not rechecked, so this was not a broad all-clear.",
       "links": []
     },
     {
@@ -163,10 +163,10 @@
       "id": "siteguard",
       "name": "SiteGuard",
       "category": "Website maintenance",
-      "status": "Build/pilot canceled; scheduled Svara checks continue",
-      "updatedAt": "2026-11-18T00:32:00+05:30",
+      "status": "Build/pilot canceled; Nov 18 Svara checks continued separately",
+      "updatedAt": "2026-11-19T00:32:00+05:30",
       "stage": "Running",
-      "description": "The SiteGuard build/pilot is canceled; scheduled Svara scans continue separately. The Nov 17 report found the static page reachable and the Render target timed out.",
+      "description": "The SiteGuard build/pilot remains canceled; separate Svara scans continue. The Nov 18 static scan found two existing issues with no change; the Render target timed out with one open reachability finding.",
       "links": [
         {
           "label": "Repo",
@@ -188,10 +188,10 @@
       "id": "svara",
       "name": "Svara",
       "category": "App",
-      "status": "Wellness-tracker demo; Nov 17 scan found the static page reachable and Render timed out",
-      "updatedAt": "2026-11-18T00:32:00+05:30",
+      "status": "Wellness-tracker demo; Nov 18 scan found two existing issues; Render timed out",
+      "updatedAt": "2026-11-19T00:32:00+05:30",
       "stage": "Running",
-      "description": "A generic wellness-tracker demo with a public preview. The Nov 17 scan found the static page reachable; a separate Render check timed out.",
+      "description": "A generic wellness-tracker demo with a public preview. The Nov 18 static scan returned HTTP 200 with two existing issues and no new or fixed findings. The separate Render target timed out, leaving one open reachability finding.",
       "links": [
         {
           "label": "Preview",
@@ -215,5 +215,5 @@
       ]
     }
   ],
-  "updatedAt": "2026-11-18T00:41:00+05:30"
+  "updatedAt": "2026-11-19T00:35:00+05:30"
 }
